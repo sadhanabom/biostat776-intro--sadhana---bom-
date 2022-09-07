@@ -7,7 +7,7 @@ Hi everyone! My name is Sadhana, and I am a second-year ScM student in the Bioch
 
 -   I love hiking, camping, and painting landscapes. I enjoyed winter hiking in the North Shore areas like Grand Marais and Shovel Point when I was in MN.
 
--   I have crossed the Mississippi River in Itasca, Minnesota, where the Mississippi originates, only around ten feet wide.
+-   I have crossed the Mississippi River in Itasca, Minnesota, where the Mississippi originates from the Lake Itasca (a small glacial lake).
 
 -   I speak three languages (English, Nepali, and Hindi)
 
