@@ -23,4 +23,4 @@ I am interested in cancer immunology, the microbiome in cancer immunotherapy, an
 
 -   The R Graph Gallery: The R Graph Gallery is a collection of charts including distribution, correlation, etc. It is made with the R programming language with reproducible code. [The R Graph Gallery](https://r-graph-gallery.com/index.html)
 
--   Best Trails in Maryland: I often use AllTrails to find the best hiking trails in Maryland [AllTrails](https://www.alltrails.com/us/maryland)
+-   AllTrails: I often use AllTrails to find the best hiking trails in Maryland [AllTrails](https://www.alltrails.com/us/maryland)
