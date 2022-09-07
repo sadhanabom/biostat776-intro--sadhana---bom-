@@ -1,4 +1,4 @@
-# biostat776-intro--sadhana---bom-
+# This website contains a short introduction of Sadhana Bom
 # About Me
 
 Hi everyone! My name is Sadhana, and I am a second-year ScM student in the Biochemistry and Molecular Biology program at JHSPH. I am originally from Nepal and lived in Minnesota before moving to Baltimore. I did my undergraduate in Biomedical Science at St Cloud State University, Minnesota. I am excited and looking forward to learning, growing, and working with a diverse community at Johns Hopkins University.
