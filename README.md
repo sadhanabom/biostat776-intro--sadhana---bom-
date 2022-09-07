@@ -1,7 +1,5 @@
 # biostat776-intro--sadhana---bom-
 # About Me
-![Painting Description: A glimpse of a mountain village in Nepal with Mount Annapurna in the background](/Users/sadhanabom/Downloads/Image.png){width="2x"}
-
 
 Hi everyone! My name is Sadhana, and I am a second-year ScM student in the Biochemistry and Molecular Biology program at JHSPH. I am originally from Nepal and lived in Minnesota before moving to Baltimore. I did my undergraduate in Biomedical Science at St Cloud State University, Minnesota. I am excited and looking forward to learning, growing, and working with a diverse community at Johns Hopkins University.
 
